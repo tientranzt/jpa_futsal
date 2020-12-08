@@ -1,0 +1,11 @@
+com\axonactive\resultvalue\ResultValue.class
+com\axonactive\socialinfo\SocialInfo.class
+com\axonactive\schedule\Schedule.class
+com\axonactive\match\Match.class
+com\axonactive\contact\Contact.class
+com\axonactive\groupstage\GroupStage.class
+com\axonactive\play\Play.class
+com\axonactive\player\Player.class
+com\axonactive\teaminfo\TeamInfo.class
+com\axonactive\rewards\Rewards.class
+com\axonactive\team\Team.class
